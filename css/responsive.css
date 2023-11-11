@@ -1,0 +1,135 @@
+@media (max-width:1024px) {
+    .seif p {
+        color: #848484;
+        padding: 0;
+        margin: 20px 0;
+    }
+    
+}
+@media (max-width:768px) {
+    .server_img {
+        width: 31%;
+        left: 137px;
+    }
+    .homes img {
+        padding: 0; 
+        padding-right: 13px;
+    }
+    .homes img {
+        width: 128px;
+    }
+    homes p {
+        font-size: 13px;
+    }
+    p{
+        font-size: 13px;
+    }
+    .dolna a {
+        font-size: 13px;
+    }
+    .facebook i {
+        width: 32px;
+        height: 32px;
+        line-height: 32px;
+        margin-top: 20px;
+    }
+    .computer {
+        display: flex;
+        /* margin: 20px 0; */
+        color: #6e6e6e;
+        margin-bottom: 19px;
+        font-size: 18px;
+    }
+}
+
+@media (max-width:575px) {
+    .seif p {
+        color: #848484;
+        padding: 0;
+        margin: 20px 0;
+    }
+    .back p {
+        margin: 10px 0;
+        color: #6e6e6e;
+        width: 300px;
+    }
+    .server {
+        background-image: url(../images/image3.png);
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        min-height: 90vh !important;
+        position: relative;
+    }
+    .homes {
+        display: flex;
+         margin: 0; 
+        padding-top: 10px;
+    }
+    .server_img {
+        position: absolute;
+        bottom: 0;
+        width: 29%;
+        left: 136px;
+    }
+    .homes img {
+        padding: 0; 
+        padding-right: 13px;
+    }
+    .homes img {
+        width: 128px;
+    }
+    .dolna li {
+        font-size: 11px;
+    }
+    .facebook i {
+        width: 32px;
+        height: 32px;
+        line-height: 32px;
+        margin-top: 16px;
+    }
+    .compos p {
+        color: #8b8b8b;
+        font-size: 10px;
+        /* padding-bottom: 20px; */
+    }.back h5 {
+        padding-bottom: 16px;
+    }
+    .nannumia h5{
+        font-size: 30px;
+        color: #ffffff;
+    }
+    .server_img{
+       display: none;
+     }
+     .services {
+        margin-top: 0; 
+    }
+    .homes p {
+        color: #ffffff;
+        font-size: 13px;
+    }
+    .monu {
+        margin-bottom: 13px;
+    }
+    .dolna {
+        display: none;
+    }
+    .contant {
+        display: none;
+    }
+    .trit h2 {
+        color: #ffffff;
+        font-size: 21px;
+    }
+    .text h5 {
+        color: #ffffff;
+        font-size: 13px;
+    }
+    .text h6 {
+        color: #ffffff;
+        font-size: 11px;
+        padding-top: 9px;
+    }
+
+}
